@@ -1,0 +1,10 @@
+CA Schools --California School 
+web:
+https://vincentarelbundock.github.io/Rdatasets/datasets.html
+doc:
+https://vincentarelbundock.github.io/Rdatasets/doc/AER/CASchools.html
+
+The Stanford Achievement Test, 9th Edition or more commonly know as the SAT-9 test is a nationally administered multi-subject standardized exam.
+
+SAT，也称 “美国高考” ，是由美国大学理事会（College Board）主办的一项标准化的、以笔试形式进行的高中毕业生学术能力水平考试。其成绩是世界各国高中毕业生申请美国高等教育院校入学资格及奖学金的重要学术能力参考指标。 [1] 
+SAT 考试总分为 1600 分，分为阅读（400分） [2]  、文法（400分） [3]  和数学（800分） [4]  三个部分，另有总分为 24 分（阅读理解8分，文章分析8分，英语写作8分）的作文（选考）部分 [1]  [5-6]  。SAT 考试由美国教育考试服务中心（ETS）受权负责考试的命题和阅卷工作 [7]  。考试成绩无官方有效期限制 [8]  ，但部分社区学院仅认可两年内的 SAT 成绩为有效成绩 [9-11]  。
